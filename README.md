@@ -2,7 +2,11 @@
 <h3 align="center">Backend Software Engineer (PHP / Laravel)</h3>
 
 <p align="center">
-I build scalable backend systems, clean RESTful APIs, and high-performance applications.
+I design and build scalable backend systems, RESTful APIs, and high-performance applications with a focus on clean architecture, scalability, and real-world business solutions.
+</p>
+
+<p align="center">
+🚀 Portfolio: <a href="https://mohammed-elkhalifa-portfolio.vercel.app/" target="_blank">View Live Projects</a>
 </p>
 
 ---
@@ -10,10 +14,11 @@ I build scalable backend systems, clean RESTful APIs, and high-performance appli
 ## 🧠 About Me
 
 - 💻 Backend Engineer specialized in **PHP & Laravel**
-- ⚡ Focused on **scalable systems, performance, and clean architecture**
-- 🛠️ Experienced in building **E-commerce, Healthcare, Logistics, and Education platforms**
-- 🚀 Passionate about **optimizing APIs, database performance, and system design**
-- 🤝 Team player with experience using **Git, Docker, and CI/CD workflows**
+- 🏗️ Strong focus on **scalable system design & clean architecture**
+- ⚡ Experienced in building **production-grade platforms (Logistics, E-commerce, Marketplaces, Directories)**
+- 🔌 Skilled in **API integrations (Shipping, Payment Gateways, Third-party services)**
+- 🚀 Passionate about **performance optimization, database design, and system scalability**
+- 🤝 Comfortable working with **Git, Docker, and CI/CD workflows**
 
 ---
 
@@ -22,57 +27,128 @@ I build scalable backend systems, clean RESTful APIs, and high-performance appli
 ### 👨‍💻 Backend
 - PHP (Laravel)
 - RESTful APIs
-- MVC & Clean Architecture
+- MVC & Clean / Modular Architecture
+- Service-Oriented Design
 
 ### 🗄️ Databases
 - MySQL
 - PostgreSQL
-
-### ⚡ Performance
-- Redis (Caching)
 - Query Optimization
-- Indexing & Performance Tuning
+- Indexing Strategies
 
-### 🔧 Tools & DevOps
+### ⚡ Performance & Scalability
+- Redis (Caching)
+- Queues & Background Jobs
+- Event-Driven Architecture
+- Performance Tuning
+
+### 🔧 DevOps & Tools
 - Git & GitHub
 - Docker
 - Linux
-- CI/CD Concepts
+- CI/CD Concepts (GitHub Actions / Vercel workflows)
 
 ### 🌐 Frontend (Supportive)
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Blade Templates
+- AJAX
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 MW Express (Logistics System)
-> Logistics management platform to handle shipments, tracking, and delivery lifecycle.
+### 📦 MW Express (Logistics Platform)
+> Enterprise-grade logistics system for managing shipments, tracking, and delivery lifecycle.
 
-- Laravel-based system
-- Courier integrations (SMSA, Aramex)
-- Real-time tracking
-- Scalable architecture
+- Multi-carrier integrations (SMSA, Aramex)
+- Payment gateway integration (Moyasar)
+- Real-time shipment tracking
+- Queue-based background processing
+- Modular & scalable Laravel architecture
+
+---
+
+### 🚚 Tawselah Express (Delivery System)
+> Domestic logistics platform for automated shipping operations in Saudi Arabia.
+
+- SMSA shipping integration
+- ClickPay payment gateway
+- Automated shipment lifecycle
+- Label generation & tracking system
+- Asynchronous processing with queues
 
 ---
 
 ### 🏥 Virtual Hospital System
-> Healthcare platform for managing patients, doctors, and appointments.
+> Healthcare backend system for managing patients, doctors, and appointments.
 
-- RESTful API backend
-- Secure data handling
-- Role-based system
+- RESTful API architecture
+- Role-based access control
+- Secure patient data handling
+- Scalable backend structure
 
 ---
 
-### 🛒 E-commerce Platform
-> Full backend for online store with payments and order management.
+### 🛒 Beauty Plus E-commerce
+> Full e-commerce backend handling orders, payments, and shipping automation.
 
-- Product & order system
+- Order lifecycle management
+- AJEX shipping integration
+- MyFatoorah & Tamara payments
+- Optimized checkout workflow
+
+---
+
+### 🗂️ Jazan Directory Platform
+> Regional directory system for businesses, tourism, and events.
+
+- Advanced search & categorization
+- REST API backend
+- Scalable data structure
+- Mobile integration support
+
+---
+
+### 🛍️ Islamic Brand E-commerce
+> React-based frontend with Laravel API backend.
+
+- Kashier payment integration
+- Egypt Post shipping workflow
+- API-driven architecture
+- Multi-platform support (Web + Mobile apps)
+
+---
+
+### 🛒 Shekha Store
+> E-commerce system with full automation for orders, payments, and shipping.
+
+- SMSA shipping integration
+- Multiple payment gateways (Moyasar, Tamara, MyFatoorah)
+- Order management system
+- Shipping automation workflow
+
+---
+
+### 🧩 Cocktail Services (Marketplace)
+> Service marketplace connecting users with providers.
+
+- Multi-service booking system
 - Payment integration
-- Optimized queries for performance
+- API-driven backend for mobile apps
+- Scalable marketplace architecture
+
+---
+
+## 🧠 Engineering Approach
+
+- Clean Architecture (Separation of Concerns)
+- Service-Oriented Design
+- Event-Driven Systems
+- Queue-Based Processing
+- API-First Development
+- Performance & Scalability Focus
 
 ---
 
@@ -91,18 +167,10 @@ I build scalable backend systems, clean RESTful APIs, and high-performance appli
 ## 📫 Contact Me
 
 - 📧 Email: mohamed.elkhalifa.dev@gmail.com  
-- 📱 Phone / WhatsApp: +20 10 9665 7747  
+- 📱 WhatsApp: +20 10 9665 7747  
 - 💼 LinkedIn: https://www.linkedin.com/in/mhmd-el-khalifa/  
 - 💻 GitHub: https://github.com/Mohammedkhalifa9997  
-
----
-
-## 🧩 Soft Skills
-
-- Problem Solving  
-- System Thinking  
-- Team Collaboration  
-- Mentoring & Knowledge Sharing  
+- 🌐 Portfolio: https://mohammed-elkhalifa-portfolio.vercel.app/
 
 ---
 
@@ -110,3 +178,12 @@ I build scalable backend systems, clean RESTful APIs, and high-performance appli
 
 - Arabic (Native)
 - English (Conversational)
+
+---
+
+## 🧩 Soft Skills
+
+- Problem Solving  
+- System Design Thinking  
+- Team Collaboration  
+- Code Review & Mentoring  
